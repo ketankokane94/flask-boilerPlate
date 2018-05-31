@@ -1,0 +1,8 @@
+
+#packages
+
+virtualEnv
+
+#builds
+
+/src/__pycache__
